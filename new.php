@@ -1,1 +1,1 @@
-new php
+<?php echo 'hello' ?>
