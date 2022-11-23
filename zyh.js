@@ -1,1 +1,1 @@
-this is zan yai htet
+console.log("hello");
